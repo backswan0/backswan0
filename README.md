@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @backswan0
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in reading books, writing
+- 🌱 I’m currently learning Java, Technical Translation from English to Korean
 - 📫 How to reach me rnrwprh3434@gmail.com
-- 😄 Pronouns: 
 - ⚡ Fun fact: I'm fairly good with Writing :pencil:
 
 <!---
