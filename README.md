@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @backswan0
-- 👀 I’m interested in *Reading Books*, *Writing*
-- 🌱 I’m currently learning *Java*, *Technical Translation from English to Korean*
+- 👀 I’m interested in __Reading Books__, __Writing__
+- 🌱 I’m currently learning __Java__, __Technical Translation from English to Korean__
 - 📫 How to reach me rnrwprh3434@gmail.com
-- ⚡ Fun fact: I'm fairly good with Writing :pencil:
+- ⚡ Fun fact: I'm fairly good with __Writing__ :pencil:
 
 <!---
 backswan0/backswan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
